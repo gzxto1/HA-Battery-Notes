@@ -273,6 +273,11 @@
             "model": "TRADFRI open/close remote (E1766)",
             "battery_type": "CR2032"
         },
+	{
+            "manufacturer": "IKEA of Sweden",
+            "model": "TRADFRI open/close remote",
+            "battery_type": "CR2032",
+        },
         {
             "manufacturer": "IKEA",
             "model": "TRADFRI shortcut button (E1812)",
@@ -292,6 +297,11 @@
             "manufacturer": "IKEA of Sweden",
             "model": "TRADFRI ON/OFF switch",
             "battery_type": "CR2032"
+        },
+	{
+            "manufacturer": "IKEA of Sweden",
+            "model": "FYRTUR block-out roller blind",
+            "battery_type": "BRAUNIT Battery pack",
         },
         {
             "manufacturer": "iNode",
@@ -401,7 +411,12 @@
             "manufacturer": "LUMI",
             "model": "lumi.sensor_motion.aq2",
             "battery_type": "CR2450"
-        },        
+        },
+	{
+            "manufacturer": "LUMI",
+            "model": "lumi.sensor_switch",
+            "battery_type": "CR2032",
+        },
         {
             "manufacturer": "LUMI",
             "model": "lumi.sensor_wleak.aq1",
@@ -631,6 +646,11 @@
             "model": "Temperature and humidity sensor with screen (SNZB-02D)",
             "battery_type": "CR2450"
         },
+	{
+            "manufacturer": "SONOFF",
+            "model": "ZBCurtain",
+            "battery_type": "Irreplaceable",
+        },
         {
             "manufacturer": "Sure Petcare",
             "model": "Cat flap",
@@ -677,6 +697,12 @@
             "battery_type": "AAA",
             "battery_quantity": 2
         },
+        {
+            "manufacturer": "switchbot",
+            "model": "WoLock",
+            "battery_type": "CR123A",
+            "battery_quantity": 2
+        },	    
         {
             "manufacturer": "Tado",
             "model": "RU01",
@@ -1005,8 +1031,12 @@
             "manufacturer": "Xiaomi",
             "model": "MiJia temperature & humidity sensor (WSDCGQ01LM)",
             "battery_type": "CR2032"
-        },    
-
+        },
+	{
+            "manufacturer": "Xiaomi",
+            "model": "Temperature/Humidity sensor",
+            "battery_type": "CR2032",
+        },
         {
             "manufacturer": "Xiaomi",
             "model": "XMTZC02HM/XMTZC05HM/NUN4049CN",

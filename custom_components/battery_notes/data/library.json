@@ -273,10 +273,10 @@
             "model": "TRADFRI open/close remote (E1766)",
             "battery_type": "CR2032"
         },
-	{
+	{    
             "manufacturer": "IKEA of Sweden",
             "model": "TRADFRI open/close remote",
-            "battery_type": "CR2032",
+            "battery_type": "CR2032"
         },
         {
             "manufacturer": "IKEA",
@@ -301,7 +301,7 @@
 	{
             "manufacturer": "IKEA of Sweden",
             "model": "FYRTUR block-out roller blind",
-            "battery_type": "BRAUNIT Battery pack",
+            "battery_type": "BRAUNIT Battery pack"
         },
         {
             "manufacturer": "iNode",
@@ -415,7 +415,7 @@
 	{
             "manufacturer": "LUMI",
             "model": "lumi.sensor_switch",
-            "battery_type": "CR2032",
+            "battery_type": "CR2032"
         },
         {
             "manufacturer": "LUMI",
@@ -649,7 +649,7 @@
 	{
             "manufacturer": "SONOFF",
             "model": "ZBCurtain",
-            "battery_type": "Irreplaceable",
+            "battery_type": "Irreplaceable"
         },
         {
             "manufacturer": "Sure Petcare",
@@ -1007,6 +1007,7 @@
             "manufacturer": "Xiaomi",
             "model": "MiJia light intensity sensor (GZCGQ01LM)",
             "battery_type": "CR2450"
+	},	
         {
             "manufacturer": "Xiaomi",
             "model": "MiJia wireless switch (WXKG01LM)",
@@ -1035,7 +1036,7 @@
 	{
             "manufacturer": "Xiaomi",
             "model": "Temperature/Humidity sensor",
-            "battery_type": "CR2032",
+            "battery_type": "CR2032"
         },
         {
             "manufacturer": "Xiaomi",
